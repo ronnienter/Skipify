@@ -6,7 +6,9 @@
 ## 🧠 Why I Built This
 
 I wanted to automate skipping at a set time without touching the player every time. Also a good way to work with Chrome extensions, web scripting, and real use-case behavior automation.
-Main inspiration is from Ed Sheeran's "Give Me Love, I love that song but the duration is a whopping 8:46 for absolutely no reason (2nd part wasn't needed)_
+
+Main inspiration is from Ed Sheeran's "Give Me Love, I love that song but the duration is a whopping 8:46 for absolutely no reason (2nd part wasn't needed)
+
 I always wanted to just cut off and go next... So shout out Mr Ed Sheeran.
 
 ---
