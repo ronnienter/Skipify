@@ -1,0 +1,4 @@
+Skipify.txt
+.DS_Store
+node_modules/
+*.log
