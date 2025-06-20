@@ -1,7 +1,8 @@
-# Skipify 🎵
+# SpotiChop 🎵
 
-**Skipify** is a lightweight Chrome extension that lets you set a custom time (in seconds) for when Spotify Web Player should automatically skip to the next track.
+**SpotiChop** is a lightweight Chrome extension that lets you set a custom time (in seconds) for when Spotify Web Player should automatically skip to the next track.
 
+---
 
 ## 🧠 Why I Built This
 
@@ -16,9 +17,9 @@ I always wanted to just cut off and go next... So shout out Mr Ed Sheeran.
 ## 🚀 How It Works
 
 - Open Spotify Web Player in Chrome.
-- Click the Skipify extension icon.
+- Click the SpotiChop extension icon.
 - Enter the number of seconds you want a track to play before skipping.
-- Play your music — Skipify auto-skips tracks once your timer is hit.
+- Play your music — SpotiChop auto-skips tracks once your timer is hit.
 
 ---
 
@@ -44,9 +45,7 @@ I always wanted to just cut off and go next... So shout out Mr Ed Sheeran.
 1. Open `chrome://extensions/`
 2. Enable **Developer Mode**
 3. Click **Load Unpacked**
-4. Select the `Skipify/` folder
-5. Open [Spotify Web Player](https://open.spotify.com/) and enjoy!
+4. Select the `SpotiChop/` folder
+5. Open [Spotify Web Player](https://open.spotify.com/)
 
 ---
-
-Built for personal learning & control over Spotify playback.

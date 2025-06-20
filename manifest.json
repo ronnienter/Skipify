@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Skipify",
-  "description": "Set a custom time to automatically skip Spotify Web songs.",
+  "name": "SpotiChop",
+  "description": "Auto skip Spotify Web songs at a custom cut-off time..",
   "version": "1.0",
   "permissions": [
     "tabs",
